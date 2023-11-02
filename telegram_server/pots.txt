@@ -1,0 +1,1 @@
+"{\"rose\": 1, \"magnolie\": 2, \"pomodori\": 3, \"viole\": 4, \"geranei\": 5}"

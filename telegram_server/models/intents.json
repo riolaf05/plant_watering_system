@@ -1,0 +1,28 @@
+{"intents": [
+        {"tag": "annaffia_pomodori",
+         "patterns": ["Annaffia pomodori", "pomodori", "I pomodori sono secchi","pomodori annaffia"],
+         "responses": ["Ok annaffio i pomodori!"],
+         "context": [""]
+        },
+        {"tag": "annaffia_rose",
+        "patterns": ["Annaffia rose", "rose", "Le rose sono secche","rose annaffia"],
+        "responses": ["Ok annaffio le rose!"],
+        "context": [""]
+        },
+        {"tag": "annaffia_geranei",
+        "patterns": ["Annaffia geranei", "geranei", "I geranei sono secchi","geranei annaffia"],
+        "responses": ["Ok annaffio i geranei!"],
+        "context": [""]
+        },
+        {"tag": "annaffia_magnolie",
+        "patterns": ["Annaffia magnolie", "magnolie", "Le magnolie sono secche","magnolie annaffia"],
+        "responses": ["Ok annaffio le magnolie!"],
+        "context": [""]
+        },
+        {"tag": "annaffia_viole",
+        "patterns": ["Annaffia viole", "viole", "Le viole sono secche","viole annaffia"],
+        "responses": ["Ok annaffio le viole!"],
+        "context": [""]
+        }
+   ]
+}
